@@ -10,6 +10,3 @@ tracker:
                 - fullsend-ai/fullsend
                 - fullsend-ai/agents
 runtime: dummy
-agents:
-    - name: fix-probe
-      source: harness/fix-probe.yaml
